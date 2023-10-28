@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #dc6b2f !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar-nav{
+    margin-left: auto !important;
+}
+
+.nav-link{
+    color:white !important;
+    font-size: 15px;
+}
+
+.navbar-brand{
+    color:white;
+}
+
+.dropBorder{
+    border:none !important;
+    margin-right:50px;
+}

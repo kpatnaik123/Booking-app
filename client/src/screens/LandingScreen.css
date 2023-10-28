@@ -1,0 +1,21 @@
+.landing{
+    background-color:#dc6b2f !important;
+    height:100vh;
+    padding-top: 100px;
+}
+
+h2{
+    color:white;
+}
+
+h1{
+    color:white;
+    font-size: 20px !important;
+    font-weight: normal !important;
+}
+
+.landingbtn{
+    background-color: white !important;
+    color:black !important;
+    margin: 10px;
+}

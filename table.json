@@ -1,0 +1,28 @@
+[
+{
+  "name": "Sai Krishna Canteen",
+  "maxCount": 4,
+  "phoneNumber": 123456789,
+  "imageURLs": [
+    "https://img.restaurantguru.com/ra0d-GITAM-Sai-Krishna-Canteen-exterior.jpg",
+    "https://10619-2.s.cdn12.com/rests/original/106_509912097.jpg",
+    "https://10619-2.s.cdn12.com/rests/original/106_508204204.jpg"
+  ],
+  "currentBookings": [],
+  "rating": "3 star",
+  "description": "While in gitam medical college near OPD,one can have tiffin or meals there. Clean place reasonably rates. Also nearby Cafe is there...good AC,ambience and rates with payment by paytm,phone pay etc only."
+},
+{
+  "name": "Blue Bells Canteen",
+  "maxCount": 4,
+  "phoneNumber": 9875836999,
+  "imageURLs": [
+    "https://img.restaurantguru.com/rd11-BLUE-BELLS-interior.jpg",
+    "https://img.restaurantguru.com/w400/rf1a-BLUE-BELLS-design.jpg",
+    "https://img.restaurantguru.com/reba-BLUE-BELLS-CANTEEN-interior.jpg"
+  ],
+  "currentBookings": [],
+  "rating": "3 star",
+  "description": "You will be offered such food as perfectly cooked biryani, come here and try them."
+}
+]

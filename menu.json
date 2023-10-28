@@ -1,0 +1,38 @@
+[
+  {
+    "id": "m1",
+    "name": "Hamburger",
+    "description": "The Classic Burger",
+    "price": 200
+  },
+  {
+    "id": "m2",
+    "name": "Fried chicken",
+    "description": "Special crispy chicken.",
+    "price": 160
+  },
+  {
+    "id": "m3",
+    "name": "Barbecue Burger",
+    "description": "American raw meaty" ,
+    "price": 250
+  },
+  {
+    "id": "m4",
+    "name": "Green Bowl",
+    "description": "Healthy...and green...",
+    "price": 120
+  },
+  {
+    "id": "m5",
+    "name": "Biryani",
+    "description": "Hot and spicy",
+    "price": 180
+  },
+  {
+    "id": "m6",
+    "name": "Fried Rice",
+    "description": "boiled or steamed rice",
+    "price": 140
+  }
+]
