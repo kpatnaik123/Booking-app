@@ -22,7 +22,7 @@ function Navbar() {
                     </a>
 
                         <ul className="dropdown-menu">
-                            <li><a className="dropdown-item" href="/home">Bookings</a></li>
+                            <li><a className="dropdown-item" href="/profile">Profile</a></li>
                             <li><a className="dropdown-item" href="/" onClick={logout}>Logout</a></li>
                         </ul>
 

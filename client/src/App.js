@@ -8,6 +8,8 @@ import LandingScreen from './screens/LandingScreen';
 import HomePage from './Order/pages/Home/HomePage';
 import FoodPage from './Order/pages/Food/FoodPage'
 import CartPage from './Order/pages/Cart/CartPage';
+import Profilescreen from './screens/Profilescreen';
+import Orderscreen from './screens/Orderscreen';
 function App() {
   return (
     <div className="App">
@@ -18,10 +20,12 @@ function App() {
           <Route path="/register" exact Component={Registerscreen}/>
           <Route path="/login" exact Component={Loginscreen}/>
           <Route path="/" exact Component={LandingScreen}/>
+          <Route path="/profile" exact Component={Profilescreen}/>
+          <Route path="/orderPage" exact Component={Orderscreen}/>
           <Route path="/order" exact Component={HomePage}/>
           <Route path="/order/search/:searchTerm" exact  Component={HomePage}/>
           <Route path="/order/tag/:tag" exact Component={HomePage}/>
-          <Route path="/order/food/:food" exact Component={FoodPage}/>
+          <Route path="/order/food/:foodId" exact Component={FoodPage}/>
           <Route path="/order/cart" exact Component={CartPage}/>
         </Routes>
       </BrowserRouter>

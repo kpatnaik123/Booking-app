@@ -3,24 +3,27 @@ import { useNavigate, useParams } from 'react-router-dom';
 import Price from '../../components/Price/Price';
 import StarRating from '../../components/StarRating/StarRating';
 import Tags from '../../components/Tags/Tags';
-import { useCart } from '../../components/hooks/useCart';
 import { getById } from '../../service/foodService';
 import classes from './foodPage.module.css';
 import NotFound from '../../components/NotFound/NotFound';
+import axios from 'axios';
+
 export default function FoodPage() {
   const [food, setFood] = useState({});
-  const { id } = useParams();
-  const { addToCart } = useCart();
-  const navigate = useNavigate();
+  const { foodId } = useParams();
+  console.log(foodId);
+  // const { addToCart } = useCart();
+  // const navigate = useNavigate();
 
-  const handleAddToCart = () => {
-    addToCart(food);
-    navigate('/order/cart');
-  };
+  // const handleAddToCart = () => {
+  //   addToCart(food);
+  //   navigate('/order/cart');
+  // };
 
   useEffect(() => {
-    getById(id).then(setFood);
-  }, [id]);
+    getById(foodId).then(setFood);
+  }, [foodId]);
+  console.log(food);
   return (
     <>
       {!food ? (
@@ -73,10 +76,10 @@ export default function FoodPage() {
               <Price price={food.price} />
             </div>
 
-            <button onClick={handleAddToCart}>Add To Cart</button>
+             <button >Add To Cart</button> 
           </div>
         </div>
-      )}
+      )} 
     </>
   );
 }

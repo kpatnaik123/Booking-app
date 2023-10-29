@@ -1,5 +1,5 @@
 const mongoose =require('mongoose');
-
+const mongooseDouble = require('mongoose-double');
 const menuSchema=mongoose.Schema({
     id:{
         type:String,
@@ -9,7 +9,7 @@ const menuSchema=mongoose.Schema({
         type:String,
         required:true
     },
-    description:{
+    cookTime:{
         type:String,
         required:true
     },
@@ -17,6 +17,21 @@ const menuSchema=mongoose.Schema({
         type:Number,
         required:true
     },
+    favorite:{
+        type:Boolean,
+        required:true
+    },
+    origins:[],
+    stars:{
+        type:Number,
+        required:true
+    },
+    imageUrl:{
+        type:String,
+        required:true
+    },
+    tags:[]
+
 })
 
 const menuModel=mongoose.model('menu',menuSchema);

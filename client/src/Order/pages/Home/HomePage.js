@@ -23,9 +23,6 @@ const reducer = (state, action) => {
 
 function HomePage() {
   const [state, dispatch] = useReducer(reducer, initialState);
-//   useEffect(()=>{
-//     getAll().then(foods=>dispatch({type:'FOODS_LOADED',payload:foods}))
-//   },[])
   const { foods, tags } = state;
   const { searchTerm, tag } = useParams();
 
