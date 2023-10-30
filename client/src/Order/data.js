@@ -71,7 +71,7 @@ export const sample_foods=[
   {
       "id": "5",
       "name": "Chicken Soup",
-      "rice": 110,
+      "price": 110,
       "cookTime": "40-50",
       "favorite": false,
       "origins": [

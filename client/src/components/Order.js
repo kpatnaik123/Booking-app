@@ -22,9 +22,9 @@ function Order({res}) {
         <div style={{float:'right'}}>
           {user ?
                   <>
-                    <Link to={`/order`}>
+                    <Link to={`/order`} >
                     <button className='btn btn-primary m-2'>Order Now</button>
-                  </Link> 
+                    </Link> 
                   <button className='btn btn-primary'onClick={handleShow}>View Details</button>
                   </> 
           :

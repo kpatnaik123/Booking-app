@@ -1,5 +1,5 @@
 import './App.css';
-import {BrowserRouter,Route,Routes} from 'react-router-dom';
+import {Route,Routes} from 'react-router-dom';
 import Homescreen from './screens/Homescreen';
 import Bookingscreen from './screens/Bookingscreen';
 import Registerscreen from './screens/Registerscreen';
@@ -10,10 +10,10 @@ import FoodPage from './Order/pages/Food/FoodPage'
 import CartPage from './Order/pages/Cart/CartPage';
 import Profilescreen from './screens/Profilescreen';
 import Orderscreen from './screens/Orderscreen';
+import Thumbnails from './Order/components/Thumbnails/Thumbnails';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
         <Routes>
           <Route path="/home" exact Component={Homescreen}/>  
           <Route path="/book/:restaurantid"  exact Component={Bookingscreen} />
@@ -28,7 +28,6 @@ function App() {
           <Route path="/order/food/:foodId" exact Component={FoodPage}/>
           <Route path="/order/cart" exact Component={CartPage}/>
         </Routes>
-      </BrowserRouter>
     </div>
   );
 }

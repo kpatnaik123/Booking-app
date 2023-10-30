@@ -6,7 +6,6 @@ import Tags from '../../components/Tags/Tags';
 import { getById } from '../../service/foodService';
 import classes from './foodPage.module.css';
 import NotFound from '../../components/NotFound/NotFound';
-import axios from 'axios';
 
 export default function FoodPage() {
   const [food, setFood] = useState({});
@@ -23,7 +22,7 @@ export default function FoodPage() {
   useEffect(() => {
     getById(foodId).then(setFood);
   }, [foodId]);
-  console.log(food);
+  console.log(food)
   return (
     <>
       {!food ? (

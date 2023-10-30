@@ -12,7 +12,7 @@ function Bookingscreen({}) {
     const [restaurant,setRestaurant]=useState([]);
     const [loading,setLoading]=useState(true);
     const [error,setError]=useState();
-    const {restaurantid}=useParams();
+    const {restaurantid}=useParams();  
     const user=JSON.parse(localStorage.getItem('currentuser'));
     useEffect(() =>{
       async function fetchData(){
@@ -44,7 +44,7 @@ function Bookingscreen({}) {
         const result=await axios.post('/api/bookings/booktable',bookingDetails);
         setLoading(false);
         Swal.fire("Congratulations","Your Booking is successful","success").then(result=>{
-          window.location.href='/bookings'
+          window.location.href='/profile'
         });
       }
       catch(error){

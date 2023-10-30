@@ -9,6 +9,7 @@ const restaurantRoutes=require('./routes/restaurantRoute');
 const userRoutes=require('./routes/userRoute');
 const bookingsRoute=require('./routes/bookingsRoute');
 const menuRoute=require('./routes/menuRoute');
+const orderRoute=require('./routes/orderRoute');
 
 app.use(cors());
 app.use(express.json())
@@ -17,6 +18,7 @@ app.use('/api/restaurants',restaurantRoutes);
 app.use('/api/users',userRoutes);
 app.use('/api/bookings',bookingsRoute);
 app.use('/api/menu',menuRoute);
+app.use('/api/order',orderRoute);
 
 
 app.listen(port,()=>{
