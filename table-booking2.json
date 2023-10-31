@@ -1,0 +1,90 @@
+[{
+  "restaurant": "Sai Vennala Canteen",
+  "restaurantid": "653dfd1123722a4de7d26856",
+  "username": "K.Uday",
+  "status": "booked"
+},
+{
+  "restaurant": "Sai Krishna Canteen",
+  "restaurantid": "653dfd8223722a4de7d26857",
+  "username": "P.Karthik",
+  "status": "booked"
+},
+{
+  "restaurant": "Blue Bells Canteen",
+  "restaurantid": "653dfd8223722a4de7d26858",
+  "username": "K.Uday",
+  "status": "booked"
+},
+{
+  "restaurant": "Sai Krishna Canteen",
+  "restaurantid": "653dfd8223722a4de7d26857",
+  "username": "L.madhav",
+  "status": "booked"
+},
+{
+  "restaurant": "Crimsons",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f1",
+  "username": "L.madhav",
+  "status": "booked"
+},
+{
+  "restaurant": "Tibbs Frankie",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f6",
+  "username": "P.Karthik",
+  "status": "booked"
+},
+{
+  "restaurant": "SUBWAY",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f5",
+  "username": "R. Santhosh",
+  "status": "booked"
+},
+{
+  "restaurant": "Bheemas Canteen",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f4",
+  "username": "R. Santhosh",
+  "status": "booked"
+},
+{
+  "restaurant": "GIMSR Cafe",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f2",
+  "username": "M. Deepa",
+  "status": "booked"
+},
+{
+  "restaurant": "Om Sai Ram Canteen",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f3",
+  "username": "G. Karthika",
+  "status": "booked"
+},
+{
+  "restaurant": "Bheemas Canteen",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f4",
+  "username": "P. Srinivas",
+  "status": "booked"
+},
+{
+  "restaurant": "Crimsons",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f1",
+  "username": "P. Srinivas",
+  "status": "booked"
+},
+{
+  "restaurant": "Tibbs Frankie",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f6",
+  "username": "A. Priya",
+  "status": "booked"
+},
+{
+  "restaurant": "GIMSR Cafe",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f2",
+  "username": "B. Sanjay",
+  "status": "booked"
+},
+{
+  "restaurant": "SUBWAY",
+  "restaurantid": "653fa2b0f2d7f6ac33c4f9f5",
+  "username": "B. Sanjay",
+  "status": "booked"
+}]

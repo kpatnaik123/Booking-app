@@ -1,0 +1,132 @@
+[{
+  "name": "Sai Vennala Canteen",
+  "maxCount": 4,
+  "phoneNumber": 8712233299,
+  "imageURLs": 
+[
+    "https://10619-2.s.cdn12.com/rests/small/w400/110_505848069.jpg",
+    "https://10619-2.s.cdn12.com/rests/small/w400/110_361033885.jpg",
+    "https://10619-2.s.cdn12.com/rests/original/110_361033883.jpg"
+],
+  "currentBookings": [ ],
+  "rating": "2 star",
+  "description": "Perfectly cooked chicken is good to taste. This restaurant is notable for its cool service. From the visitors' viewpoint, prices are low. But Sai Vennela Canteen has been rated below average by Google"
+},
+{
+  "name": "Sai Krishna Canteen",
+  "maxCount": 4,
+  "phoneNumber": 123456789,
+  "imageURLs": [
+    "https://img.restaurantguru.com/ra0d-GITAM-Sai-Krishna-Canteen-exterior.jpg",
+    "https://10619-2.s.cdn12.com/rests/original/106_509912097.jpg",
+    "https://10619-2.s.cdn12.com/rests/original/106_508204204.jpg"
+  ],
+  "currentBookings": [],
+  "rating": "3 star",
+  "description": "While in gitam medical college near OPD,one can have tiffin or meals there. Clean place reasonably rates. Also nearby Cafe is there...good AC,ambience and rates with payment by paytm,phone pay etc only."
+},
+{
+  "name": "Blue Bells Canteen",
+  "maxCount": 4,
+  "phoneNumber": 9875836999,
+  "imageURLs": [
+    "https://img.restaurantguru.com/rd11-BLUE-BELLS-interior.jpg",
+    "https://img.restaurantguru.com/w400/rf1a-BLUE-BELLS-design.jpg",
+    "https://img.restaurantguru.com/reba-BLUE-BELLS-CANTEEN-interior.jpg"
+  ],
+  "currentBookings": [],
+  "rating": "3 star",
+  "description": "You will be offered such food as perfectly cooked biryani, come here and try them."
+},
+{
+  "name": "Big Buns",
+  "maxCount": 4,
+  "phoneNumber": 9867836999,
+  "imageURLs": [
+    "https://content3.jdmagicbox.com/comp/pauri/i5/9999p1368.1368.200210171539.j7i5/catalogue/big-buns-srinagar-pauri-fast-food-m8ygu0oi46.jpg",
+    "https://lh3.googleusercontent.com/p/AF1QipNWpZuOqpHAVg4caopzCIfLGVUKTofouF26dgr9=s1360-w1360-h1020",
+    "https://images.jdmagicbox.com//comp/pauri/i5/9999p1368.1368.200210171539.j7i5/catalogue/big-buns-srinagar-pauri-fast-food-sc7soxkb5x.jpg"
+  ],
+  "currentBookings": [],
+  "rating": "3.5 star",
+  "description": " These soft and delicious jumbo-sized buns are 5” across, a perfect size for impressive burgers and sandwiches stacked high with everything"
+},
+{
+  "name": "Crimsons",
+  "maxCount": 4,
+  "phoneNumber": 9834536999,
+  "imageURLs": [
+    "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2022/04/21/203848_1356022.jpg.1500x1000_q95_crop-smart_upscale.jpg",
+    "https://crimsonscreamery.com/cakes/img/logo-dark.png",
+    "https://realfood.tesco.com/media/images/RFO-1400x919-Waffle-ddd8d9dc-ad14-4bbb-a229-ef9508c05660-0-1400x919.jpg"
+  ],
+  "currentBookings": [],
+  "rating": "4.5 star",
+  "description": "Crimson's Creamery is an artisanal ice cream store offering a delightful selection of handcrafted, premium ice cream flavors that satisfy your sweet cravings"
+},
+{
+  "name": "GIMSR Cafe",
+  "maxCount": 6,
+  "phoneNumber": 8908757546,
+  "imageURLs": [
+    "https://www.gitam.edu/sites/default/files/2023-07/GIMSR-MBBS-Dinning-Hall.jpg",
+    "https://i.ytimg.com/vi/OCRr1-ee0i4/sddefault.jpg",
+    "https://www.gitam.edu/sites/default/files/2023-07/GIMSR-Cafe.jpg"
+  ],
+  "currentBookings": [],
+  "rating": "4 star",
+  "description": "GIMSR Cafe is a welcoming place where you can enjoy a variety of delicious treats in a cozy and inviting atmosphere.."
+},
+{
+  "name": "Om Sai Ram Canteen",
+  "maxCount": 6,
+  "phoneNumber": 9908759546,
+  "imageURLs": [
+    "https://lh3.googleusercontent.com/p/AF1QipMjI7ypaZtMEWomoqy9i7XzJwXhlz33EeLd_qIG=s1360-w1360-h1020",
+    "https://lh3.googleusercontent.com/p/AF1QipPyJGlXpccqlOQY9ObNUHjgkTFqcavwis5Abz4I=s1360-w1360-h1020",
+    "https://lh3.googleusercontent.com/p/AF1QipP-lStsWSXjESV51FLY0MdrAjKbkQ6XTJkSWW8G=s1360-w1360-h1020"
+  ],
+  "currentBookings": [],
+  "rating": "4 star",
+  "description": "This food court is located near the Gymnasium with a seating capacity of 120. It serves all types of food, both vegetarian and non-vegetarian."
+},
+{
+  "name": "Bheemas Canteen",
+  "maxCount": 8,
+  "phoneNumber": 9008757546,
+  "imageURLs": [
+    "https://lh3.googleusercontent.com/p/AF1QipMLnaAD6Lit2s1NXrZzRmE8sVcDdGr1gFGKDIoF=s1360-w1360-h1020",
+    "https://lh3.googleusercontent.com/p/AF1QipPJtrv0K8ggMaQsvlrVSp1MKDElfVyn5l8LdmoW=s1360-w1360-h1020",
+    "https://lh3.googleusercontent.com/p/AF1QipPDaG61AvD2DivP0SPbxfLCowq_Vy6FkvocIT4G=s1360-w1360-h1020"
+  ],
+  "currentBookings": [],
+  "rating": "4 star",
+  "description": "Centrally located, it has a seating capacity of 200. It also serves food in the outside area for more than 200 consumers at a time"
+},
+{
+  "name": "SUBWAY",
+  "maxCount": 2,
+  "phoneNumber": 8818757546,
+  "imageURLs": [
+    "https://lh3.googleusercontent.com/p/AF1QipNQ2cUx3fg_6ZYif5TbISmAcHMAdOeYWYeVb0JC=s1360-w1360-h1020",
+    "https://lh3.googleusercontent.com/p/AF1QipOiOkufkll-F_EBSTpal8OZWDs0Kd8oC5mAY5_8=s1360-w1360-h1020",
+    "https://lh3.googleusercontent.com/p/AF1QipMstOkfciMYX9HHFehlPpq8mo1URba5lXhavap3=s1360-w1360-h1020"
+  ],
+  "currentBookings": [],
+  "rating": "3 star",
+  "description": "Located in ICT building it is a franchise of subway and one of the two outlets in the city. It offers western type of food like pizza, burgers, pastries, cool drinks, etc."
+},
+{
+  "name": "Tibbs Frankie",
+  "maxCount": 1,
+  "phoneNumber": 8818757546,
+  "imageURLs": [
+    "https://lh3.googleusercontent.com/p/AF1QipNw2Q5ZFdzHCJIQ14m-qJGpC9Kg5QO2F9rOOJfa=s1360-w1360-h1020",
+    "https://lh3.googleusercontent.com/p/AF1QipOZORwVmGZcRCYAXWQe6CAlg2NFuQT8D1k_IWei=s1360-w1360-h1020",
+    "https://lh3.googleusercontent.com/p/AF1QipMSuDrGmZEs6eoSafkbh8E4FjlKSfjbIJ7y2pJM=s1360-w1360-h1020"
+  ],
+  "currentBookings": [],
+  "rating": "3 star",
+  "description": "A franchise food outlet is located near the play ground and offers western types of food items and snacks."
+}
+]

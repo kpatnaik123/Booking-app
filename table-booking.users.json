@@ -1,0 +1,162 @@
+[{
+  "name": "P.Karthik",
+  "email": "kpatnaik@gitam.in",
+  "regdno": "122010311003",
+  "password": "kp@123",
+  "isAdmin": false
+},
+{
+  "name": "L.madhav",
+  "email": "vkarra@gitam.in",
+  "regdno":"122010310007",
+  "password": "madhav123",
+  "isAdmin": false
+},
+{
+  "name": "K.Uday",
+  "email": "ukandreg@gitam.in",
+  "regdno":"122010310008",
+  "password": "kuc2002",
+  "isAdmin": false
+},
+{
+    "name": "S. Rajesh",
+    "email": "srajesh@gitam.in",
+    "regdno": "122010301034",
+    "password": "rajesh@123",
+    "isAdmin": false
+  },
+  {
+    "name": "A. Priya",
+    "email": "apriya@gitam.in",
+    "regdno": "122010301045",
+    "password": "priya1234",
+    "isAdmin": false
+  },
+  {
+    "name": "N. Venkat",
+    "email": "nvenkat@gitam.in",
+    "regdno": "122010301008",
+    "password": "venkat@123",
+    "isAdmin": false
+  },
+  {
+    "name": "B. Sanjay",
+    "email": "bsanjay@gitam.in",
+    "regdno": "122010302045",
+    "password": "sanjay1234",
+    "isAdmin": false
+  },
+  {
+    "name": "M. Deepa",
+    "email": "mdeepa@gitam.in",
+    "regdno": "122010302060",
+    "password": "deepa@123",
+    "isAdmin": false
+  },
+  {
+    "name": "G. Karthika",
+    "email": "gkarthika@gitam.in",
+    "regdno": "122010303023",
+    "password": "karthika123",
+    "isAdmin": false
+  },
+  {
+    "name": "V. Harish",
+    "email": "vharish@gitam.in",
+    "regdno": "122010303056",
+    "password": "harish@123",
+    "isAdmin": false
+  },
+  {
+    "name": "R. Sangeeta",
+    "email": "rsangeeta@gitam.in",
+    "regdno": "122010303034",
+    "password": "sangeeta123",
+    "isAdmin": false
+  },
+  {
+    "name": "K. Prakash",
+    "email": "kprakash@gitam.in",
+    "regdno": "122010304034",
+    "password": "prakash@123",
+    "isAdmin": false
+  },
+  {
+    "name": "L. Suresh",
+    "email": "lsuresh@gitam.in",
+    "regdno": "122010304045",
+    "password": "suresh@123",
+    "isAdmin": false
+  },
+  {
+    "name": "P. Srinivas",
+    "email": "psrinivas@gitam.in",
+    "regdno": "122010310034",
+    "password": "srinivas@123",
+    "isAdmin": false
+  },
+  {
+    "name": "S. Meena",
+    "email": "smeena@gitam.in",
+    "regdno": "122010310056",
+    "password": "meena1234",
+    "isAdmin": false
+  },
+  {
+    "name": "R. Santhosh",
+    "email": "rsanthosh@gitam.in",
+    "regdno": "122010310045",
+    "password": "santhosh@123",
+    "isAdmin": false
+  },
+  {
+    "name": "A. Priyanka",
+    "email": "apriyanka@gitam.in",
+    "regdno": "122010311034",
+    "password": "priyanka123",
+    "isAdmin": false
+  },
+  {
+    "name": "K. Vasavi",
+    "email": "kvasavi@gitam.in",
+    "regdno": "122010311026",
+    "password": "vasavi@123",
+    "isAdmin": false
+  },
+  {
+    "name": "M. Ramesh",
+    "email": "mramesh@gitam.in",
+    "regdno": "122010311009",
+    "password": "ramesh1234",
+    "isAdmin": false
+  },
+  {
+    "name": "G. Lavanya",
+    "email": "glavanya@gitam.in",
+    "regdno": "122010312034",
+    "password": "lavanya123",
+    "isAdmin": false
+  },
+  {
+    "name": "B. Pradeep",
+    "email": "bpradeep@gitam.in",
+    "regdno": "122010312012",
+    "password": "pradeep@123",
+    "isAdmin": false
+  },
+  {
+    "name": "V. Priya",
+    "email": "vpriya@gitam.in",
+    "regdno": "122010312006",
+    "password": "priya@123",
+    "isAdmin": false
+  },
+  {
+    "name": "S. Surya",
+    "email": "ssurya@gitam.in",
+    "regdno": "122010313043",
+    "password": "surya@123",
+    "isAdmin": false
+  }
+]
