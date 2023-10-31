@@ -16,3 +16,5 @@ This page is displayed after you book a table from the single booking page, and 
 
 A user can see his profile by clicking on the profile option displayed on the top right corner of the pages. It also shows the orders and bookings done by the user.
 ![image](https://github.com/kpatnaik123/Campus-Eats/assets/100128193/03aad40a-d3ae-413a-a117-cf4edab8537c)
+
+![image](https://github.com/kpatnaik123/Campus-Eats/assets/105808323/f0a89c40-4675-48f0-932a-99d81d8bd375)
